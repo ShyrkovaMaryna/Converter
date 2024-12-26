@@ -6,5 +6,11 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Converter project: Miles to Kilometers and Kilometers to Miles");
+
+        System.out.println("5 miles is " + milesToKilometers(5) + " kilometers.");
+    }
+
+    private static double milesToKilometers(double miles) {
+        return miles * CONV_M;
     }
 }
