@@ -8,9 +8,14 @@ public class Main {
         System.out.println("Converter project: Miles to Kilometers and Kilometers to Miles");
 
         System.out.println("5 miles is " + milesToKilometers(5) + " kilometers.");
+        System.out.println("8 kilometers is " + kilometersToMiles(8) + " miles.");
     }
 
     private static double milesToKilometers(double miles) {
         return miles * CONV_M;
+    }
+
+    public static double kilometersToMiles(double kilometers) {
+        return kilometers / CONV_M;
     }
 }
