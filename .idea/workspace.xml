@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd48674c-0d67-4ae3-af4b-5939758b75ca" name="Changes" comment="Add Fahrenheit to Celsius conversion">
+    <list default="true" id="fd48674c-0d67-4ae3-af4b-5939758b75ca" name="Changes" comment="add kilometers to miles conversion functionality">
       <change beforePath="$PROJECT_DIR$/../My-Git-App" beforeDir="false" afterPath="$PROJECT_DIR$/../My-Git-App" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,29 +51,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.HomeWork3.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homeWork3",
+    "git-widget-placeholder": "feature/miles-conversion",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/HILLEL/DEMO/ABC/JavaPro/src/HomeWork2/Main.java",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HomeWork3.Main">
-    <configuration name="HomeWork3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork3.Main" />
-      <module name="JavaPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork2.Main" />
       <module name="JavaPro" />
@@ -88,7 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeWork3.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -120,8 +107,6 @@
     <MESSAGE value="Updated .gitignore file" />
     <MESSAGE value="add miles to kilometers conversion functionality" />
     <MESSAGE value="add kilometers to miles conversion functionality" />
-    <MESSAGE value="Initial commit: Add project information" />
-    <MESSAGE value="Add Fahrenheit to Celsius conversion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Fahrenheit to Celsius conversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="add kilometers to miles conversion functionality" />
   </component>
 </project>
