@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd48674c-0d67-4ae3-af4b-5939758b75ca" name="Changes" comment="add kilometers to miles conversion functionality">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fd48674c-0d67-4ae3-af4b-5939758b75ca" name="Changes" comment="Add Fahrenheit to Celsius conversion">
       <change beforePath="$PROJECT_DIR$/../My-Git-App" beforeDir="false" afterPath="$PROJECT_DIR$/../My-Git-App" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HomeWork3.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "homeWork3",
@@ -121,6 +120,8 @@
     <MESSAGE value="Updated .gitignore file" />
     <MESSAGE value="add miles to kilometers conversion functionality" />
     <MESSAGE value="add kilometers to miles conversion functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="add kilometers to miles conversion functionality" />
+    <MESSAGE value="Initial commit: Add project information" />
+    <MESSAGE value="Add Fahrenheit to Celsius conversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Fahrenheit to Celsius conversion" />
   </component>
 </project>
