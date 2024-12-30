@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="fd48674c-0d67-4ae3-af4b-5939758b75ca" name="Changes" comment="Add Fahrenheit to Celsius conversion">
     <list default="true" id="fd48674c-0d67-4ae3-af4b-5939758b75ca" name="Changes" comment="add kilometers to miles conversion functionality">
       <change beforePath="$PROJECT_DIR$/../My-Git-App" beforeDir="false" afterPath="$PROJECT_DIR$/../My-Git-App" afterDir="false" />
     </list>
@@ -22,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homeWork3" />
+        <entry key="$PROJECT_DIR$" value="feature/miles-conversion" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -90,6 +91,17 @@
       <updated>1720791584291</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated .gitignore file" />
